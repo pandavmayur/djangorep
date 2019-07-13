@@ -8,7 +8,7 @@ class Librarians(models.Model):
 
     class Meta:
         db_table = "libr_data"
-
+# AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 
 class Library(models.Model):
     libname = models.CharField(max_length=50)
