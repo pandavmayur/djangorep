@@ -2,6 +2,9 @@ from django.db import models
 
 # Create your models here.
 
+
+print('AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA')
+
 #orm -- object relational mapping
 
 class Librarian(models.Model):
