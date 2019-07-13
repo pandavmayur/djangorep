@@ -1,5 +1,9 @@
 from django.db import models
 
+
+
+print('Hello Mayur Pandav')
+
 # Create your models here.
 
 class Librarians(models.Model):
