@@ -2,7 +2,7 @@ from django.db import models
 
 
 
-print('Hello MayurGood Morning')
+print('Hello MayurGood Night')   # ithe zale changes yes..need more practice..Fakta puu push pull psuh pull push
 
 # Create your models here.
 
