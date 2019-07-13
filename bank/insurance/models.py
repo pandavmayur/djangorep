@@ -2,7 +2,7 @@ from django.db import models
 
 
 
-print('Hello Mayur Pandav')
+print('Hello MayurGood Morning')
 
 # Create your models here.
 
@@ -12,7 +12,7 @@ class Librarians(models.Model):
 
     class Meta:
         db_table = "libr_data"
-# AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+# BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
 
 class Library(models.Model):
     libname = models.CharField(max_length=50)
