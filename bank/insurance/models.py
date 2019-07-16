@@ -2,7 +2,7 @@ from django.db import models
 
 
 
-print('Hello Mayur')
+print('Hello Mayur P')
 
 # Create your models here.
 
